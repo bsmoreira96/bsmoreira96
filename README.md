@@ -24,9 +24,7 @@
 
 <br/>
 
-<a href="https://github.com/bsmoreira96">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsmoreira96s&theme=dracula&show_icons=true" />
-</a>
+![Bruno Moreira's GitHub stats](https://github-readme-stats.vercel.app/api?username=bsmoreira96&show_icons=true&theme=dark)
 
 <br/>
 
