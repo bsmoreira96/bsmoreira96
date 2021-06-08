@@ -32,6 +32,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Buno Moreira](https://img.shields.io/badge/-Bruno Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINKEDIN)](https://www.linkedin.com/in/bruno-moreira-b736a320a/)
+[![Linkedin: Buno Moreira](https://img.shields.io/badge/-BrunoMoreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINKEDIN)](https://www.linkedin.com/in/bruno-moreira-b736a320a/)
 [![Gmail Badge](https://img.shields.io/badge/-bsmoreira96@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:EMAIL)](mailto:bsmoreira96@gmail.com)
 [![GitHub bsmoreira96]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/bsmoreira96)
