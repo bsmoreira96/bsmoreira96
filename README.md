@@ -1,5 +1,5 @@
 
-<h3> Sobre mim </h3>
+<h3> About me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Development at **Code Club**</a>.
