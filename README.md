@@ -3,7 +3,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Software Development at **Code Club**</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **JavaScript, React, Node**.
+- 🌱 &nbsp; Always developing my skills in **JavaScript, React, Node**.
 
 <h3> :rocket: &nbsp;My Skills </h3>
 
